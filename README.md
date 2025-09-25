@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Acceder al proyecto de Azure DevOps  
+##  Acceder al proyecto de Azure DevOps  
 
 1. Ir a 👉 [https://dev.azure.com](https://dev.azure.com).  
 2. Iniciar sesión con tu cuenta de Microsoft.  
